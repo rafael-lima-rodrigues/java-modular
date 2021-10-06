@@ -2,7 +2,7 @@
 
 This project contains a Java modular implementation.
 
-## Contents:
+## Modules:
 * digital.innovation.core;
 * digital.innovation.uitls;
 
